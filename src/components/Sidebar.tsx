@@ -1,18 +1,17 @@
 import { Link, useLocation } from "react-router-dom";
-import { ShoppingBag } from "lucide-react";
 
 const Sidebar = () => {
   const location = useLocation();
 
   const navItems = [
     { name: "Ideas", path: "/" },
-    { name: "Curriculums", path: "/curriculums" },
+    { name: "Products", path: "/products" },
   ];
 
   return (
     <aside className="fixed left-0 top-0 h-screen w-64 border-r border-border bg-background p-8 flex flex-col">
       <Link to="/" className="mb-12">
-        <h1 className="text-2xl font-bold tracking-tight">VV</h1>
+        <h1 className="text-2xl font-bold tracking-tight">VT</h1>
       </Link>
 
       <nav className="flex-1">
@@ -33,16 +32,6 @@ const Sidebar = () => {
           ))}
         </ul>
       </nav>
-
-      <div className="pt-4 border-t border-border">
-        <a
-          href="#"
-          className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
-        >
-          <ShoppingBag className="w-4 h-4" />
-          <span>Cart</span>
-        </a>
-      </div>
     </aside>
   );
 };

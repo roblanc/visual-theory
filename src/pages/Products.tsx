@@ -1,12 +1,12 @@
 import Sidebar from "@/components/Sidebar";
 
-const Curriculums = () => {
+const Products = () => {
   return (
     <div className="min-h-screen bg-background">
       <Sidebar />
       <main className="ml-64 p-12">
         <div className="max-w-6xl mx-auto">
-          <h1 className="text-4xl font-bold mb-6">Curriculums</h1>
+          <h1 className="text-4xl font-bold mb-6">Products</h1>
           <p className="text-lg text-muted-foreground mb-8">
             Structured learning paths to help you master key concepts.
           </p>
@@ -32,4 +32,4 @@ const Curriculums = () => {
   );
 };
 
-export default Curriculums;
+export default Products;
