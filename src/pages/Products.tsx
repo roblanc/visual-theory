@@ -1,9 +1,9 @@
 import Sidebar from "@/components/Sidebar";
 import productPlanning from "@/assets/product-planning-2.png";
 import productClearmind from "@/assets/product-clearmind-2.png";
-import productEpigrams from "@/assets/product-epigrams.jpg";
-import productBeyondorder from "@/assets/product-beyondorder.jpg";
-import productAntidote from "@/assets/product-antidote.jpg";
+import productEpigrams from "@/assets/product-epigrams-2.png";
+import productBeyondorder from "@/assets/product-beyondorder-2.png";
+import productAntidote from "@/assets/product-antidote-2.png";
 
 const products = [
   {
