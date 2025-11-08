@@ -1,5 +1,6 @@
 import writingEvergreen from "@/assets/writing-is-evergreen-technology.png";
 import theBalloonOfSelfImportance from "@/assets/the-balloon-of-self-importance.png";
+import expectationVReality from "@/assets/expectation-v-reality.png";
 
 export const visuals = [
   {
@@ -15,5 +16,12 @@ export const visuals = [
     image: theBalloonOfSelfImportance,
     slug: "the-balloon-of-self-importance",
     content: `Everything begins with awareness. Awareness is cleaning yourself up. Toxicity requires a heavy clean-up. You will need to go through a purging process and combine that with internal awareness so that you can change your environments.\n\nIf you see that your friends don’t push you forward, consider changing your environment. This will also change the people.\n\nNo expectations.\n\nChanging your environment even for a brief period of time can change that perspective, that space to see things clearly.\n\nConfidence can be beneficial until it is not. There is a breaking point. When confidence is overshadowed by arrogance, a person's actions reveal their true character.\n\nSelf-compassion does not imply absolving yourself of responsibility. It all comes down to having a growth mindset that gives you genuine confidence.`,
+  },
+  {
+    title: "Expectation V Reality",
+    description: "A look into the gap between what we expect and what we get.",
+    image: expectationVReality,
+    slug: "expectation-v-reality",
+    content: `This is the placeholder content for Expectation V Reality. You can update this later.`,
   },
 ];
