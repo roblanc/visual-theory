@@ -38,6 +38,11 @@ const VisualDetail = () => {
             <div className="text-lg text-muted-foreground leading-relaxed whitespace-pre-wrap">
               {visual.content}
             </div>
+            {visual.secondaryImage && (
+              <div className="aspect-[16/9] bg-card overflow-hidden rounded-lg mt-8">
+                <img src={visual.secondaryImage} alt={visual.title} className="w-full h-full object-cover" />
+              </div>
+            )}
           </article>
         </div>
       </main>
