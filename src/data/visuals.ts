@@ -3,7 +3,6 @@ import theBalloonOfSelfImportance from "@/assets/the-balloon-of-self-importance.
 import expectationVReality from "@/assets/expectation-v-reality.png";
 import expectationVReality2 from "@/assets/expectation-v-reality-2.png";
 import readTheRules from "@/assets/read-the-rules.png";
-import readTheRules2 from "@/assets/read-the-rules-2.png";
 
 export const visuals = [
   {
@@ -48,6 +47,5 @@ If I truly understand the vibrancy that results from combining two specific colo
 Trying new things and bucking the trend are common themes in artistic practice. If you look at art throughout history, you'll notice that many of the new movements were an attempt to challenge the established order and the contemporary definitions of art at the time. The movements of impressionism, realism, and conceptualism, as well as looking back on the Renaissance and the transition into baroque, all take this into consideration.
 
 > “After you’ve learned two or three basic rules of cinema grammar, you can do what you like—including breaking those rules.” — Michelangelo Antonioni`,
-    secondaryImage: readTheRules2,
   },
 ];

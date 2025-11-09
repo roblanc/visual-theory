@@ -11,35 +11,35 @@ const products = [
     description: "A hand-picked collection of productivity systems, distilled into an analog template for the next 90 days.",
     image: productPlanning,
     link: "https://visualtheory.gumroad.com/l/planning",
-    price: "$1"
+    price: "$5"
   },
   {
     title: "\"Clear Mind\" Minimal Wallpaper Pack",
     description: "A curated collection of minimal wallpapers designed to bring clarity and focus to your workspace.",
     image: productClearmind,
     link: "https://visualtheory.gumroad.com/l/zPvRv",
-    price: "$1"
+    price: "$5"
   },
   {
     title: "Epigrams, Quotes & Witticisms",
     description: "A collection of timeless wisdom and wit, carefully selected and beautifully formatted.",
     image: productEpigrams,
     link: "https://visualtheory.gumroad.com/l/wxbze",
-    price: "$1"
+    price: "$5"
   },
   {
     title: "\"Beyond Order\" Wallpaper Pack",
     description: "Inspired by principles of structure and meaning, this pack brings order to your digital space.",
     image: productBeyondorder,
     link: "https://visualtheory.gumroad.com/l/ivubo",
-    price: "$1"
+    price: "$5"
   },
   {
     title: "\"An Antidote to Chaos\" Wallpaper Pack",
     description: "Find balance between order and chaos with this thoughtfully designed wallpaper collection.",
     image: productAntidote,
     link: "https://visualtheory.gumroad.com/l/FNXfko",
-    price: "$1"
+    price: "$5"
   }
 ];
 
