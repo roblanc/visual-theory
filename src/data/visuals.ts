@@ -2,6 +2,8 @@ import writingEvergreen from "@/assets/writing-is-evergreen-technology.png";
 import theBalloonOfSelfImportance from "@/assets/the-balloon-of-self-importance.png";
 import expectationVReality from "@/assets/expectation-v-reality.png";
 import expectationVReality2 from "@/assets/expectation-v-reality-2.png";
+import readTheRules from "@/assets/read-the-rules.png";
+import readTheRules2 from "@/assets/read-the-rules-2.png";
 
 export const visuals = [
   {
@@ -31,5 +33,13 @@ It is important to recognize the differences between our expectations of the fut
 
 The same goes for relationships, career goals, and educational experiences. Reality can be a harsh reminder that our expectations may not always be met, but that doesn't mean our dreams should be abandoned. Instead, we must adjust our expectations and be open to reality as it presents itself. With the proper perspective and dedication, our goals and visions for the future can become a reality.`,
     secondaryImage: expectationVReality2,
+  },
+  {
+    title: "Read the rules before you break the rules",
+    description: "Understanding the rules is the first step to innovation.",
+    image: readTheRules,
+    slug: "read-the-rules-before-you-break-the-rules",
+    content: `This is the placeholder content for "Read the rules before you break the rules". You can update this later.`,
+    secondaryImage: readTheRules2,
   },
 ];
