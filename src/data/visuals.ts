@@ -39,7 +39,15 @@ The same goes for relationships, career goals, and educational experiences. Real
     description: "Understanding the rules is the first step to innovation.",
     image: readTheRules,
     slug: "read-the-rules-before-you-break-the-rules",
-    content: `This is the placeholder content for "Read the rules before you break the rules". You can update this later.`,
+    content: `> “Learn the rules like a pro, so you can break them like an artist.” ― Pablo Picasso
+
+During the 1950s, 1960s, and 1970s, a great number of artists did not pay as much attention as they ought to have to fundamental processes. They broke the rules. For example, they did not know how to properly prepare a canvas or which kinds of paints to use. In addition to disregarding artistic and aesthetic conventions, they paid little attention to the "rules" that dictate how to ensure that a painting will be preserved. The end result is that art conservators have a lot of work to do, as they struggle to prevent artwork worth millions of dollars from deteriorating. Ignoring a process because one does not fully comprehend it is reckless and naive behavior.
+
+If I truly understand the vibrancy that results from combining two specific colors, the effect of negative space, or the operation of two-point perspective, to name just three things, then I will be able to experiment with those concepts. It is imperative that you understand that this comprehension does not have to be of an academic nature. As opposed to the technical aspects of art, the aesthetic understandings can be obtained through a variety of means, such as through non-verbal experience, intuition, trial and error, and so on.
+
+Trying new things and bucking the trend are common themes in artistic practice. If you look at art throughout history, you'll notice that many of the new movements were an attempt to challenge the established order and the contemporary definitions of art at the time. The movements of impressionism, realism, and conceptualism, as well as looking back on the Renaissance and the transition into baroque, all take this into consideration.
+
+> “After you’ve learned two or three basic rules of cinema grammar, you can do what you like—including breaking those rules.” — Michelangelo Antonioni`,
     secondaryImage: readTheRules2,
   },
 ];
